@@ -1,8 +1,10 @@
 Todo List Application with Docker :
+
 --> A simple Todo List application built using React and Dockerized for easy setup and deployment.
 =============
 
 Features:
+
 -->Add, update, and delete tasks
 -->Persistent data storage
 -->Responsive UI
