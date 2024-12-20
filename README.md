@@ -1,22 +1,22 @@
-Todo List Application with Docker :
+-->Todo List Application with Docker :
 
---> A simple Todo List application built using React and Dockerized for easy setup and deployment.
+A simple Todo List application built using React and Dockerized for easy setup and deployment.
 =============
 
-Features:
+-->Features:
 
--->Add, update, and delete tasks
--->Persistent data storage
--->Responsive UI
+Add, update, and delete tasks
+Persistent data storage
+Responsive UI
 =============
 
-Prerequisites:
--->Ensure you have the following installed on your system:
--->Node.js and npm
--->Docker
--->Docker Compose
+-->Prerequisites:
+Ensure you have the following installed on your system:
+Node.js and npm
+Docker
+Docker Compose
 =============
-Getting Started
+-->Getting Started
 
 Follow these steps to set up and run the Todo List application:
 Using Node.js
